@@ -3,7 +3,7 @@ window.onload = () => {
 };
 
 function addSlide() {
-  const divElement = document.getElementById("p0");
-  divElement.innerHTML = "";
-  divElement.appendChild(document.createTextNode("testes"));
+  // const divElement = document.getElementById("p0");
+  // divElement.innerHTML = "";
+  // divElement.appendChild(document.createTextNode("testes"));
 }
